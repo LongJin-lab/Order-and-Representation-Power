@@ -74,7 +74,7 @@ print('device',device)
 
 # parser = argparse.ArgumentParser(description='ZeorSNet CIFAR')
 parser = argparse.ArgumentParser(description='ZeorSNet CIFAR')
-parser.add_argument('--lr', default=0.000125, type=float, help='initial learning rate')#TODO
+parser.add_argument('--lr', default=0.1, type=float, help='initial learning rate')#TODO
 parser.add_argument('--resume', type=bool, default=False)
 parser.add_argument('--epoch', type=int, default=3, help='training epoch')
 parser.add_argument('--warm', type=int, default=0, help='warm up training phase')
