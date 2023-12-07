@@ -241,11 +241,9 @@ if args.save_path == None:
 
 experiment = Experiment(
 # experiment = OfflineExperiment(
-    api_key="KbJPNIfbsNUoZJGJBSX4BofNZ",
-    # project_name="OverThreeOrders",
-    project_name="over3orders-Taylor-20231102-cutout-4th",
-    # project_name="overthreeorders-4channels",
-    workspace="logichen",
+    api_key="YourAPIKey",
+    project_name="project_name",
+    workspace="workspace",
     # auto_histogram_weight_logging=True,
     # offline_directory=path_base+"CometData",
 )
