@@ -28,4 +28,4 @@ Run cells in superconductors.ipynb.
 
 ## Acknowledgements
 
-The defect detection code is based on the [Mixed-SegDec-Net](https://github.com/vicoslab/mixed-segdec-net-comind2021) project. We modify the orignal model architecture.
+The defect detection code is based on the [Mixed-SegDec-Net](https://github.com/vicoslab/mixed-segdec-net-comind2021) project. We modified the orignal model architecture.
