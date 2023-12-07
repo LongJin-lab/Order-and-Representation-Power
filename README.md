@@ -20,7 +20,7 @@ nohup python3 GPUsRuns.py  > log.txt 2>&1 &
 
 ### Critical temperature prediction of superconductors
 
-Download the [Superconductivty data](https://archive.ics.uci.edu/dataset/464/superconductivty+data).
+Download the [Superconductivity data](https://archive.ics.uci.edu/dataset/464/superconductivty+data).
 ```bash
 cd superconductors
 ```
